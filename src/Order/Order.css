@@ -1,0 +1,45 @@
+.order {
+  display: flex;
+  margin: 100px;
+}
+
+.int {
+  font-size: 50px;
+  font-weight: bolder;
+  margin-left: -280px;
+}
+
+.new {
+  font-size: 50px;
+  color: #67a948;
+  margin-left: -270px;
+}
+
+.get
+  > h6 {
+  font-size: 20px;
+  font-weight: lighter;
+}
+.but {
+  margin-top: 30px;
+  width: 300px;
+  height: 50px;
+  border-radius: 5px;
+}
+
+.card1 {
+  width: 450px;
+  height: 333px;
+  position: relative;
+  right: 120px;
+  top: 48px;
+}
+
+.card2 {
+  width: 450px;
+  height: 333px;
+  position: absolute;
+}
+.cards {
+  margin-left: 250px;
+}

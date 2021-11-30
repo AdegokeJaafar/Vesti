@@ -1,0 +1,27 @@
+.vesti {
+  display: flex;
+  margin: 100px;
+}
+
+.plain {
+  width: 550px;
+  height: 519px;
+  border-radius: 5px;
+  box-shadow: grey;
+  background-color: #f8f6f5;
+}
+.what
+  > p {
+  font-size: 24px;
+  font-weight: bold;
+}
+.what
+  > h6 {
+  font-size: 18px;
+  font-weight: light;
+}
+
+.arrow {
+  font-size: 20px;
+  color: #67a948;
+}

@@ -1,0 +1,12 @@
+.lever {
+  background-color: #f8fef5;
+  width: 1440px;
+  height: 300px;
+  width: 100%;
+}
+.lever
+  > h4 {
+  font-size: 36px;
+  font-weight: bold;
+  text-align: center;
+}
