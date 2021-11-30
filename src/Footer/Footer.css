@@ -49,12 +49,16 @@
   font-weight: regular;
 }
 .bottom {
-  margin-top: 30px;
+  margin: 100px;
   display: flex;
   justify-content: space-evenly;
 }
 
 .policy {
-  font-size: 18px;
+  font-size: 20px;
   font-weight: regular;
+  width: 50%;
+  height: 1px;
+  background-color: #ffffff;
+  display: flex;
 }
