@@ -1,0 +1,19 @@
+.safety {
+  display: flex;
+  margin: 100px;
+}
+.left {
+  width: 450px;
+  height: 370px;
+}
+.left
+  > h6 {
+  font-size: 16px;
+  font-weight: bolder;
+}
+
+.lock {
+  margin-left: 300px;
+  width: 350px;
+  height: 270px;
+}

@@ -1,0 +1,26 @@
+.create {
+  margin: 100px;
+}
+.simple {
+  text-align: center;
+}
+.step {
+  display: flex;
+}
+h4 {
+  font-size: 25px;
+  font-weight: bolder;
+}
+p {
+  font-size: 10px;
+  font-weight: lighter;
+}
+.order-button
+  > button {
+  margin-left: 600px;
+  background-color: #67a948;
+  color: #ffffff;
+  width: 150px;
+  height: 40px;
+  border-radius: 5px;
+}
